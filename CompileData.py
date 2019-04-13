@@ -2,7 +2,12 @@ from os import listdir
 from os.path import isfile, join
 import pandas as pd
 import json
-
+import numpy as np
+import matplotlib.pyplot as plt
+from scipy.stats import skew
+from scipy.stats.stats import pearsonr
+from sklearn.linear_model import Ridge, RidgeCV, ElasticNet, LassoCV, LassoLarsCV
+from sklearn.model_selection import cross_val_score
 
 # Read the files into two lists
 file_dir = "Data/RawData/"
@@ -78,5 +83,18 @@ just_nan_average = ['vote_average', 'vote_count', 'num_critic_for_reviews', 'dir
                     'cast_total_facebook_likes', 'facenumber_in_poster', 'actor_2_facebook_likes', 'movie_facebook_likes']
 for col in just_nan_average:
     merged[col].fillna((merged[col].mean()), inplace=True)
+
+merged = merged.dropna()
+
+msk = np.random.rand(len(merged)) < 0.8
+train = merged[msk]
+test = merged[~msk]
+
+#creating matrices for sklearn:
+X_train = merged[:train.shape[0]]
+X_test = merged[train.shape[0]:]
+# cross_ten = np.array_split(merged, 10)
+alphas = [0.0001, 0.001, 0.01, 0.1, 1, 10]
+y = train.revenue
 
 print(merged)
