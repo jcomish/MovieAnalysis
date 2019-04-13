@@ -21,6 +21,10 @@ for data_file in data_files:
 
 merged = data_list[0].join(data_list[1], lsuffix='title', rsuffix='title')
 
+merged.drop(['movie_id'], axis=1)
+merged = merged.join(data_list[2], lsuffix='title', rsuffix='title')
+
+
 rows = []
 # Flatten countries filmed
 for i, row in enumerate(merged['production_countries']):
