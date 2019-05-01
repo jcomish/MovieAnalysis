@@ -1,840 +1,832 @@
-title,revenue
-Blood Work,37020398.11247359
-The Messenger: The Story of Joan of Arc,102193959.98819928
-Dream House,43511226.74449517
-The Big Bounce,9162239.4235045
-My Best Friend's Wedding,474017208.5246729
-The Flintstones,585987424.6694738
-Journey to the Center of the Earth,120076668.95547205
-Patriot Games,322602063.5678831
-Monster-in-Law,201422112.93105987
-From Hell,107017628.17182383
-Fat Albert,64747572.07152991
-Revolutionary Road,88816791.27548617
-Miracle at St. Anna,11008378.87194326
-Johnny English Reborn,180903697.08397385
-Argo,257224744.48746917
-The Fugitive,648920110.3357786
-Alice Through the Looking Glass,317076060.6689305
-Victor Frankenstein,36708960.142926455
-Chicken Run,331901253.41421604
-Along Came Polly,231410463.99138168
-Warcraft,459326633.2772211
-Here Comes the Boom,80935085.07515004
-High Crimes,90124867.51317398
-Super Mario Bros.,36794138.64311419
-The Interview,13253251.468572589
-The Warrior's Way,12925497.18851121
-Double Jeopardy,271354620.2083794
-Back to the Future Part II,680605354.8387097
-Scream 3,238900096.56069687
-The Talented Mr. Ripley,196523268.66464585
-Sin City,206607549.9827957
-Big Momma's House 2,174333978.56410715
-The Other Woman,211299391.82458943
-The Count of Monte Cristo,106534585.83488604
-Horrible Bosses 2,115614102.16491789
-Escape from Planet Earth,81400730.80390802
-Predators,147176416.89394468
-Legal Eagles,115623851.60020074
-Paul,110242893.46934056
-I Am Legend,717785282.392764
-The Guilt Trip,46350701.13614467
-Hanging Up,53199236.60637631
-Pay It Forward,82235396.57968642
-Drillbit Taylor,38789338.72393789
-The Shadow,82441439.29736844
-Extremely Loud & Incredibly Close,62435246.20435762
-Ratatouille,764841233.8699275
-The Musketeer,38831924.79181254
-The Other Boleyn Girl,31659641.060802683
-Sweet November,94380893.65361942
-The Reaping,76973124.64986974
-Torque,62637037.42611964
-Batman Begins,487082105.03812593
-City Hall,32889105.1625239
-Marie Antoinette,76253463.17797619
-Life or Something Like It,23841393.62724847
-Alfie,18026863.343980942
-Big Miracle,27368632.853776664
-The Deep End of the Ocean,42907802.294117644
-Night at the Museum: Battle of the Smithsonian,489483933.43031734
-Impostor,8776122.382123096
-The Warlords,158159.50581765556
-Nomad: The Warrior,100523.67978494623
-The Crow,161234736.84210527
-Baahubali: The Beginning,107250534.77176742
-The Time Traveler's Wife,119945816.27404131
-Serenity,50592398.810691245
-Against the Ropes,8900811.035256749
-Red Cliff,150906997.28762722
-The Ugly Truth,243255908.10542703
-Star Trek: Generations,205831578.94736844
-The Hurricane,112844083.88164465
-The Ninth Gate,89110920.02038416
-White Squall,16687575.525812618
-The Master,31286773.03466118
-Virgin Territory,6634940.749146165
-The Town,179558241.10995343
-Rush,98477944.49640062
-Twilight,463551048.09617144
-Blue Streak,179678548.7214886
-Never Say Never Again,408356626.5060241
-Snow Falling on Cedars,21938812.06066026
-Thor,507780887.03531176
-The Hangover,544183566.8953979
-Batman,843271928.8600645
-Spy Kids,212338590.76431397
-Radio,72223050.22809783
-Neighbors 2: Sorority Rising,115190946.74422829
-License to Wed,84988108.80486251
-The Benchwarmers,72694451.08327381
-The Ladykillers,53413558.06287982
-Street Fighter,170537502.5994737
-House of Wax,89505814.08316436
-Predator 2,111094866.6888753
-Blast from the Past,61434214.94621848
-Hoffa,43985280.49180327
-Cursed,25114195.71941628
-Krull,42161443.483132534
-Lions for Lambs,77518577.39577423
-The Shipping News,16371448.484754378
-The Young Victoria,32477608.074961428
-Whiteout,14462758.077422542
-Knock Off,15713950.450748468
-Punisher: War Zone,11912229.719725225
-Zoom,15769335.327261904
-The Horseman on the Roof,25019881.88976378
-Bandidas,13235043.521994047
-The Fountain,19298281.983035717
-The Astronaut's Wife,29903963.185930375
-Flushed Away,81278209.5527381
-Exit Wounds,114769259.07960476
-Step Up Revolution,155526470.96479872
-The Punisher,73609719.91111699
-Pan,137697159.78448802
-Takers,80502695.54788679
-"Big Mommas: Like Father, Like Son",94493198.02092122
-Pan,137697159.78448802
-Alive,64621682.59943253
-A History of Violence,79060111.13698924
-Transporter 2,110853989.60101381
-Mr. Peabody & Sherman,293047468.6184611
-Cats Don't Dance,5648886.346878504
-Criminal,15578628.709129317
-Hearts in Atlantis,34715267.655347265
-Madagascar 3: Europe's Most Wanted,826976670.52862
-The Vow,217134227.91161788
-The Hunt for Red October,387429521.0405509
-Die Another Day,610383110.7806115
-The Addams Family,357417765.74193835
-Ace Ventura: When Nature Calls,354257396.7169685
-The Princess Diaries,237315226.21629587
-Mystic River,216654734.39152175
-Million Dollar Baby,291698000.7437374
-Ghostbusters,242700234.08824742
-The Notebook,155566818.51910004
-About Schmidt,149546169.00673708
-Looper,52083985.138984464
-Four Brothers,120234648.64387095
-Baby Mama,75366299.59962471
-Blow,119539956.00108413
-Like Mike,72674957.15089494
-A View to a Kill,360106805.6498141
-The Curse of the Were-Rabbit,250496133.12884793
-Glory Road,53775133.08877976
-Sicario,90118137.00634132
-Beowulf,240021472.02581763
-Secondhand Lions,57205770.04858696
-Gridiron Gang,52304143.28324405
-Deliver Us from Evil,32775547.583536092
-The Replacement Killers,29950499.151276074
-The Whole Ten Yards,35197733.413245104
-The Merchant of Venice,5050027.530174696
-The Good Thief,4859951.266271739
-Supercross,4038271.4546851
-The Promise,869689.7313978494
-Machine Gun Preacher,2856766.735017049
-Confessions of a Dangerous Mind,46649112.05453029
-Aladdin,913261395.3687669
-Indiana Jones and the Temple of Doom,814718633.3012512
-Along Came a Spider,150968947.280192
-Die Hard,302480946.3323077
-Dawn of the Dead,137740586.3576601
-Identity,124696492.22973913
-Last Vegas,146659562.0432097
-Timecop,174350635.51526317
-Hocus Pocus,69513626.8098685
-Lost Souls,24770133.7425784
-Pride and Prejudice and Zombies,17342773.028520003
-Kundun,9003643.198616823
-Kick-Ass 2,66235663.23398739
-Brick Mansions,73979925.8476024
-Joyful Noise,34234205.997256026
-Lucky Number Slevin,71001141.70616071
-The Right Stuff,54872921.68674699
-The NeverEnding Story,49320590.098325305
-The Duchess,16321289.576466655
-Return to Oz,26312744.32901487
-The Avengers,1682424888.4457781
-Freaky Friday,152286798.12534782
-Open Range,94353555.83253261
-A Bridge Too Far,212883688.11881188
-Final Destination 2,124927027.19461957
-Captain America: The First Avenger,418778325.19193196
-Agent Cody Banks 2: Destination London,38781610.2011117
-The Raven,32836483.617611952
-Master and Commander: The Far Side of the World,292900263.25229347
-The Best of Me,38576791.01203872
-Freddy vs. Jason,158750295.67206523
-The Twilight Saga: Breaking Dawn - Part 2,917852635.5218341
-Bridget Jones's Diary,404670343.01857704
-Chocolat,225121325.15264812
-Nothing to Lose,70409452.80321495
-The Sisterhood of the Traveling Pants,50831368.21465438
-Beauty Shop,47314827.817204304
-Anacondas: The Hunt for the Blood Orchid,95534868.48806776
-Turbo,308340305.31713575
-Bride of Chucky,79023838.12085891
-Spice World,158381308.41121495
-The Sitter,39487923.721435584
-Kingpin,40541790.75632887
-The Gambler,42061112.75116586
-Ice Princess,35983303.139692776
-A Lot Like Love,55821248.045253456
-War,49605126.65646888
-Punch-Drunk Love,24021311.839911062
-"Bright Lights, Big City",34634382.16021978
-The Adventures of Pinocchio,24450606.497667305
-The Ruins,20576646.14544154
-Angela's Ashes,19.835690276110444
-Sheena,14137332.909586139
-Underclassman,7360243.845130568
-King's Ransom,5215379.001597541
-Carnage,31194036.36513899
-Rocky Balboa,196352297.60250002
-Footloose,195814814.81428295
-Old School,120269803.40488043
-I Still Know What You Did Last Summer,62384152.60505522
-Spectre,944528227.7516719
-Muppets from Space,24857134.940888356
-The Bridge of San Luis Rey,57703.45029115934
-Faster,26907862.71715523
-The Ides of March,85879229.89042361
-Puss in Boots,627187489.1786395
-The Crew,19219048.496550523
-In the Valley of Elah,36225673.427785814
-Vanity Fair,21697803.980423503
-The Rookie,106820007.06216787
-The Net,184526574.53366143
-Shadowlands,45460817.19031142
-Our Kind of Traitor,10517401.614077922
-Australia,58506971.18202719
-Darling Lili,32757989.690721653
-Black Book,33027431.90345238
-Michael Clayton,114031405.88842256
-Death at a Funeral,56.40758321273516
-Teenage Mutant Ninja Turtles III,73885702.42214532
-Hardball,57734038.15504235
-Silver Linings Playbook,227789892.4894727
-Away We Go,17654118.40490918
-Night at the Museum: Secret of the Tomb,375204241.5727393
-The Beaver,1097112.4119516846
-Home Alone 2: Lost in New York,650437657.1173342
-Bringing Down the House,183295394.23480433
-The Silence of the Lambs,509044025.39092517
-Jackass 3D,136655923.87616944
-School of Rock,181371675.00922826
-Drumline,81373585.68076709
-Madea's Witness Protection,72656647.75149176
-The French Connection,258336749.3065185
-The French Connection,258336749.3065185
-Selma,71715412.05991484
-The Jungle Book 2,187446344.3478261
-Boogeyman,87458060.13066052
-Orphan,49286837.22016249
-Max,47155116.111966655
-Lakeview Terrace,32633778.431587115
-Bill & Ted's Bogus Journey,70992745.07801762
-The Da Vinci Code,968162184.120625
-The American,76316001.80434385
-Babel,170640887.52363095
-This Is Where I Leave You,44343095.83941606
-Rio 2,537091530.4553173
-Milk,64448794.610237665
-The World's End,50292495.756616026
-Nancy Drew,31373266.263241675
-Daybreakers,60922675.25754532
-Monte Carlo,19691871.351788707
-The Covenant,47407501.60288691
-Stick It,33882031.03497024
-To Die For,35502401.75740157
-Georgia Rule,23155165.75861071
-Ladyhawke,43545086.09665428
-Reign Over Me,27250145.384544134
-Clash of the Titans,271288776.09457207
-From Dusk Till Dawn,41859269.983632885
-Capitalism: A Love Story,20660284.52349944
-Bullets Over Broadway,22956630.991052635
-Let Me In,28148104.687905863
-We're No Angels,21638633.64754839
-Topsy-Turvy,9462779.309207683
-Birth,6736397.407972472
-Bon voyage,3251751.984
-Mission: Impossible II,806579262.8757839
-Bad Teacher,244323282.58498526
-A Cinderella Story,94290114.36536792
-The Shining,135792530.4071359
-Life of Pi,674291265.6956627
-The Bounty,21073717.683580365
-Take Me Home Tonight,7829361.479049875
-The Nutcracker,3729458.2338269893
-Fear and Loathing in Las Vegas,16656118.193558283
-Neighbors,287941620.17944044
-Big,325904528.2193407
-Legally Blonde,203497498.31258047
-Deuce Bigalow: Male Gigolo,99994868.55662666
-Left Behind,21135098.3654704
-The Family Stone,7889970.616067588
-Under the Tuscan Sun,60236905.090304345
-Blue Jasmine,108253532.9070601
-The Fog,65951724.792742714
-Love the Coopers,25740128.345224183
-Elysium,312235898.56239563
-Being Julia,10414408.331911063
-Dragonslayer,39458674.63834983
-The Last Station,7838709.214522436
-Mao's Last Dancer,24550198.255321927
-Anything Else,4425109.733086957
-The Informers,451221.74399799353
-The Hobbit: The Desolation of Smaug,1045803289.0190035
-RoboCop,260594165.14991385
-Red Sonja,16415951.727379182
-Hoodwinked!,66451483.68138248
-Speed Racer,110919037.86167401
-The Prince,286255143.84630984
-How Do You Know,56736496.57525591
-40 Days and 40 Nights,53609607.915308505
-"McFarland, USA",49024282.72199041
-Lottery Ticket,28804530.502247132
-Brooklyn's Finest,34997162.62648401
-Shanghai Surprise,5370905.565383212
-Sydney White,16701641.607091172
-Baby Boy,42173201.23714285
-Hot Fuzz,98803736.12324168
-Jennifer's Body,37390351.40009415
-How to Deal,19491377.677369565
-Things We Lost in the Fire,3493765.531519537
-Asterix at the Olympic Games,156911170.7686377
-Welcome to the Sticks,62802115.181729935
-Good,27262.873169440278
-Vamps,3281.6830056534577
-The Homesman,3696861.137748378
-Juwanna Mann,19177226.375953306
-Slow Burn,1610876.6422427036
-Wasabi,117017.60615471486
-Slither,9803332.913988095
-Beverly Hills Cop,774008337.1372088
-"Crouching Tiger, Hidden Dragon",315207137.8784669
-The Color Purple,345610792.4890149
-Private Benjamin,215331305.8252427
-National Lampoon's Vacation,156705712.02313253
-Bad Grandpa,165678131.0219225
-The Queen,155577837.82666665
-Little Women,85768818.2631579
-When a Stranger Calls,84440188.63776787
-Big Fat Liar,74847601.43873262
-What's Love Got to Do with It,68785752.3675571
-Malibu's Most Wanted,47398865.50001087
-Where the Heart Is,49853077.66055749
-Wild,56375019.96013281
-Dante's Peak,282121076.93158877
-Drive,88209215.05230306
-The Object of My Affection,73150741.07716563
-When the Game Stands Tall,32350755.48512267
-The Craft,40130323.74845124
-Nowhere to Run,39034588.87112803
-Flicka,26479375.0
-Killing Them Softly,41995871.25068599
-Freddy Got Fingered,20452431.21970638
-Black Snake Moan,13748906.056011906
-Boat Trip,12132706.792395776
-Tomorrow Never Dies,527427286.6525607
-Hoot,10188401.02892857
-The Rocker,10346089.760848666
-District B13,12897328.049031233
-Centurion,7944440.847204388
-The Good Night,24991.011866859622
-Groundhog Day,124738369.2079308
-Sarah's Key,20414762.854551125
-Fatal Attraction,716387988.1336795
-Pretty Woman,900501346.5952564
-The Spy Who Loved Me,777869332.5733663
-Urban Legend,113108341.74349692
-The Iron Lady,129911766.29752064
-Vampire in Brooklyn,33026244.09448819
-My Boss's Daughter,21482420.368499998
-A Perfect Getaway,27077782.78281136
-Thinner,24580110.184512425
-Crooklyn,23396189.473684214
-Head Over Heels,14962852.190513834
-A Walk on the Moon,7235429.648103242
-Jefferson in Paris,4126612.5196850393
-Flipped,2046164.2918516346
-Hot Tub Time Machine 2,13207529.052776804
-Allegiant,189848264.1728616
-The Last Godfather,19468271.453204684
-Justin Bieber: Never Say Never,111248567.79263711
-About Last Night,52618022.93765207
-10 Things I Hate About You,81598179.79310924
-This Christmas,60235860.42772792
-Child's Play 2,69557612.22807957
-No Good Deed,57801936.139116995
-Ex Machina,39542643.68221689
-Crazy/Beautiful,24299361.5180463
-Room,37968574.773606956
-54,26133155.514883436
-Birthday Girl,7061814.810796161
-Find Me Guilty,3324595.2315178574
-The Crocodile Hunter: Collision Course,46746247.174519174
-The Killer Inside Me,250599.78689877831
-Lars and the Real Girl,13848874.683675831
-Oscar and Lucinda,2389481.3780560745
-Machete,36520960.58626225
-Barbershop,107080850.24838242
-Time Bandits,118475417.17669965
-Patton,588333494.8453609
-Quarantine,48236806.82869259
-Frida,79550776.47441912
-Katy Perry: Part of Me,36234647.547897585
-Rounders,35747192.11899386
-Prophecy,189075867.76859507
-The Upside of Anger,24420563.97637481
-Kingdom of Heaven,275474214.28528416
-Nebraska,19264988.561082087
-Just Wright,25088095.77006824
-Rachel Getting Married,15108192.66779376
-Fortress,12210285.962095508
-For Your Consideration,6988064.677827381
-Celebrity,7848285.5717300605
-Running with Scissors,8517403.677559523
-Trade,262665.5899855282
-"A Woman, a Gun and a Noodle Shop",225917.5738077814
-Snatch,123348305.3318467
-Snatch,123348305.3318467
-Gremlins,374533500.4292973
-High School Musical 3: Senior Year,106917313.02862477
-The Fighter,109135409.8113237
-Jackass Number Two,91768324.14595239
-My Cousin Vinny,116118589.41913043
-If I Stay,84694101.61650953
-History of the World: Part I,88573336.6910231
-Quartet,65899713.37315434
-Slackers,9062979.54880489
-The Visual Bible: The Gospel of John,5621580.522717391
-The Guru,4287353.41057254
-Darkness,31312606.59905503
-2001: A Space Odyssey,501829810.34482765
-Madea's Family Reunion,72164523.13416667
-The Mighty Ducks,91955421.02689949
-Mad Max Beyond Thunderdome,85592882.25128254
-Friday After Next,47374032.8553085
-Terminator 2: Judgment Day,970521585.9030838
-The Last Dragon,60843777.89375465
-Dogma,46770864.00828331
-The Dead Zone,53001157.835662656
-Sinister 2,56716247.10310231
-Sugar Hill,31342055.143684212
-Roll Bounce,22620433.749892473
-The Second Best Exotic Marigold Hotel,92212150.07249269
-Wrong Turn,39581703.62038043
-The Long Riders,48727774.68662621
-One Direction: This Is Us,31506541.6259138
-Dirty Pretty Things,11461500.470928293
-Over Her Dead Body,8930205.53053139
-Cedar Rapids,7753683.668034445
-On the Line,6253488.334760022
-Crash,132430038.78412916
-Bucky Larson: Born to Be a Star,2634606.2631913535
-Bamboozled,3225894.2377003487
-Sphinx,1229241.4513531353
-The Hunchback of Notre Dame,162240256.2262715
-Owning Mahowny,1396804.070152174
-The Brothers Solomon,1104762.1372503617
-Severance,172030.19476190477
-Blood Done Sign My Name,96454.21028543128
-Free Style,166459.25683339292
-Eulogy,94907.91134992059
-You Only Live Twice,849253773.2028143
-Amour,21965898.696760364
-Where the Wild Things Are,118591492.16305812
-The Runaways,3492410.884460873
-Child's Play,94969446.03692307
-The Contender,26282705.024076656
-Trading Places,230721493.97590363
-Henry V,20830416.838693548
-Hamlet 2,5763878.604264688
-Two Evil Eyes,679981.597827085
-Barbecue,15407140.311815694
-The Girl on the Train,3405.36386730494
-Crocodile Dundee,761222514.8924453
-Awake,17625928.908104196
-The Wolf of Wall Street,427750015.73761684
-Batman Forever,561327962.3562205
-Glitter,7566730.889508753
-My Name Is Khan,49364728.33914224
-Limbo,3048298.5294957985
-Quo Vadis,293310000.0
-The Sound of Music,2309722029.5165715
-Shutter,30610716.44931097
-The Good Girl,23818012.412718177
-The Boondock Saints II: All Saints Day,12594539.202291446
-Woman on Top,7408246.381533102
-Hercules,261357659.16463912
-Howards End,47047399.95801853
-Showdown in Little Tokyo,4247071.516255506
-Made in Dagenham,1276276.9251751844
-When Did You Last See Your Father?,112.81516642547032
-The Wendell Baker Story,165490.31791090628
-Treasure Planet,154835886.5438021
-Dear Wendy,30074.712811059904
-Imagine Me & You,3196503.593763441
-Swimming Pool,31003419.50677174
-Thank You for Smoking,32271170.377972346
-Masked and Anonymous,736832.127652174
-Persepolis,5448730.966743848
-The Wave,22432748.26639666
-Juno,283768873.49719244
-The Godfather,1490343823.1823447
-Flashdance,237156181.17475906
-Live and Let Die,926221834.8394595
-Capote,63888694.08940092
-The Man with the Golden Gun,503103398.4584179
-Michael Jordan to the Max,31396651.402229965
-Get Low,10697702.084354477
-The Last Temptation of Christ,17993085.834065937
-Who's Your Caddy?,6982655.4858466
-Somewhere,2061557.0497120009
-Dom Hemingway,571253.6786703126
-The Spanish Prisoner,21912259.914392523
-Wah-Wah,303406.2918894009
-The Mummy Returns,621529307.0431846
-House at the End of the Street,49033847.89873428
-Incendies,8281403.984646147
-Gangs of New York,273804102.62261254
-Annabelle,274107502.924042
-Go,43412120.14192077
-Friends with Money,16856564.594613098
-Shame,19995499.10131191
-Grease,708856195.7291411
-Mary Poppins,838642959.6404517
-West Side Story,371158911.9078261
-Caddyshack,122925004.09572816
-A Nightmare on Elm Street 5: The Dream Child,45445493.504177414
-Best in Show,27488726.70324042
-The Guard,22104929.65358608
-Miss March,5382672.874842102
-Shattered Glass,4068270.9125217395
-Sex and the City 2,336145577.2910812
-Snow Flower and the Secret Fan,1505544.990695255
-"Surfer, Dude",82053.08980367205
-The Road to El Dorado,112830151.38707317
-The Train,55760438.70967742
-The Protector,35358653.46319508
-Stiff Upper Lips,108514.62309202453
-Crossover,8826458.333333334
-Chariots of Fire,164917823.35102308
-Ghost World,8900308.168898927
-Harvard Man,80390.12656126483
-The Lovely Bones,110817206.41368157
-Paranormal Activity 3,232464454.555395
-A Nightmare on Elm Street 3: Dream Warriors,100233508.96869719
-Instructions Not Included,108101846.69107175
-Monster,83414982.66286957
-The Lord of the Rings: The Return of the King,1545781609.9986846
-House Party 2,35986259.17378855
-The Man from Snowy River,54421416.01498446
-Doug's 1st Movie,29633408.94803121
-The Apostle,32837964.822242994
-Addicted,18665470.35670114
-Lone Wolf McQuade,31220466.89614458
-Sunshine Cleaning,19096617.242462948
-A Farewell to Arms,463.87226277372264
-Iron Man 3,1326284581.9391048
-UHF,12622271.158983871
-Grandma's Boy,8244135.266636904
-Slums of Beverly Hills,8546673.596539877
-Once Upon a Time in the West,38871780.93724138
-Made,7860109.565894974
-The Sweet Hereafter,5168908.62411215
-Of Gods and Men,48290717.428247795
-Green Room,3410836.9711800073
-"Gandhi, My Father",294821.5911722142
-Soul Kitchen,21177235.10999035
-Lady in White,3663987.692967033
-Driving Lessons,301075.5374404762
-Pat Garrett & Billy the Kid,62977972.972972974
-Moby Dick,97194882.35294119
-Alice in Wonderland,1195481395.348993
-Love and Death on Long Island,4026470.9864672893
-Porky's,351599280.9693729
-Unstoppable,195621698.4083538
-Lost in Translation,165402411.1027826
-Monster's Ball,64461214.9078035
-The Boy Next Door,56227009.84617137
-They Live,27953470.122197803
-The Last Exorcism Part II,16563610.138368884
-Boyhood,47620997.64294404
-The Misfits,69714260.86956522
-A Haunted House 2,18591917.61103508
-Secretary,13147583.196320178
-The Real Cancun,5129633.339152174
-Red State,1248393.4478414147
-The Barbarians,1790154.929577465
-Poolhall Junkies,794199.6771428572
-Joe,2539987.337515207
-An Everlasting Piece,110830.3005574913
-Stake Land,38755.849368969444
-The Pirate,31179299.253112033
-Midnight Cowboy,310202998.4388555
-The Nun's Story,111813938.14432989
-Evil Dead II,13253958.018380282
-Pootie Tang,4727006.0424393
-Winter Passing,143471.55836309525
-High Anxiety,130301755.5392079
-March of the Penguins,165813425.18319508
-City of God,43297383.08804891
-Beginners,6216937.186098984
-Trainspotting,26718072.136137664
-A Room with a View,49533111.87814127
-Next Day Air,11869056.881945772
-Judgment at Nuremberg,85017391.30434783
-Red River,95056781.07883817
-Phat Girlz,8901529.883303571
-Before Midnight,12195730.42552059
-Phantasm II,15649326.203736264
-X-Men: The Last Stand,579216853.1751488
-Hobo with a Shotgun,845821.5316419118
-Pocketful of Miracles,42508695.652173914
-Diary of the Dead,6578666.827380608
-Donovan's Reef,54827882.35294117
-Friday the 13th: The Final Chapter,80691103.53955726
-Jesus' Son,1956232.3947659065
-8: The Mormon Proposition,116402.77681879884
-Anatomy,8451.256968641115
-Super,377868.65702388383
-John Carter,314593271.15778285
-Bathing Beauty,99543192.27272727
-Show Boat,107547000.0
-Redemption Road,30526.0733976767
-Fantasia,1512865045.7142856
-The Valley of Decision,128965148.0
-The Best Years of Our Lives,308301400.0
-From Russia with Love,655432152.3049018
-Boom Town,166538624.57142857
-Smoke Signals,10478892.629447851
-Thirteen,6356490.938510871
-Volcano,75190119.7422056
-Me and You and Everyone We Know,5056880.865683563
-Full Frontal,3541654.175052807
-"The Book of Mormon Movie, Volume 1: The Journey",2310931.040543478
-Inside Deep Throat,850751.487158218
-K-19: The Widowmaker,49694394.08077821
-House of D,482998.11757296463
-Teeth,426218.1512590448
-Sherrybaby,785310.1726785714
-Conan the Barbarian,208403716.4266321
-Transformers: Revenge of the Fallen,990917314.7385113
-One to Another,23245.10848214286
-Beasts of the Southern Wild,23370084.79617063
-Happy Feet,484617461.43261904
-Run Lola Run,11333954.859938651
-May,212344.15760978317
-In the Bedroom,51555824.32895539
-Air Force One,499148844.116
-Ocean's Eleven,646940716.907397
-Kissing Jessica Stein,14372853.798125353
-Insidious,113089848.24219467
-Stolen Summer,169337.53130628125
-My Name Is Bruce,212222.4955716353
-Enchanted,417523599.1978002
-102 Dalmatians,271048080.20756096
-Journey from the Fall,805729.5535714286
-Friday the 13th Part 2,60747778.93016501
-The Lost Weekend,155345666.66666666
-"Sex, Lies, and Videotape",50720884.059677415
-The Holiday,244831705.74107143
-The Trouble with Harry,66396044.7761194
-But I'm a Cheerleader,3356584.8277671067
-Reservoir Dogs,26563487.53680684
-Enemy of the State,390893801.29369324
-The Charge of the Light Brigade,50035731.79856115
-It's Complicated,259612967.965013
-Waiting...,24258771.497081414
-Taxi Driver,126263670.22755712
-God's Not Dead 2,24897901.088443253
-An Inconvenient Truth,58308844.67261905
-Sands of Iwo Jima,83309899.15966386
-Shine a Light,6322936.9305211725
-The Green Inferno,7337605.543263383
-Who Killed the Electric Car?,2116930.201130952
-Slam,1531783.8234846625
-Dream with the Fishes,735926.6685981308
-Wristcutters: A Love Story,131233.04342261906
-Last Action Hero,241533221.45867127
-The Battle of Shaker Heights,385837.19002173917
-Antarctica: A Year on Ice,314003.9652038789
-Hardflip,107101.99860623534
-Creative Control,66175.32388638664
-The Fast and the Furious: Tokyo Drift,199816253.78464288
-In Her Line of Fire,909.1252083333334
-Arthur Christmas,52482075.99919088
-Charly,5950854.2106896555
-Celeste & Jesse Forever,3426516.6085611987
-Hoop Dreams,13431558.552105263
-Nutty Professor II: The Klumps,182027446.19564462
-Woodstock,226063607.5314433
-Mercy Streets,253889.04515679443
-Dredd,45436187.75701456
-Benji,203942191.18052742
-Beyond the Mat,762911.1644657863
-Twin Falls Idaho,1503455.2994117648
-Mean Creek,812723.761175225
-Seven Samurai,2568867.133159851
-Rubber,114264.76425321937
-Creepshow,55394316.875751294
-Hellboy II: The Golden Army,189365528.53757727
-Metropolitan,5714600.994766642
-Napoleon Dynamite,62060944.91050291
-Blue Ruin,277447.15450121654
-Fabled,36622.6094274597
-Maniac,34412.277158810764
-12 Angry Men,9046334.519572953
-My Dog Tulip,292162.2095396132
-Tumbleweeds,1954846.9480912364
-Wendy and Lucy,1011766.5349948677
-Compliance,353506.126336054
-American Desi,1295891.9405420667
-Shotgun Stories,55991.88384949348
-Good Dick,18349.98808191247
-Deep Impact,219057659.62041718
-Sweet Sweetback's Baadasssss Song,95404207.4074074
-RED 2,58069121.31319514
-Sound of My Voice,458381.5613477431
-The Birth of a Nation,16799684.177261494
-Hollywood Shuffle,11700043.12177817
-Pi,5023455.7098404905
-Happy Christmas,32303.54896593674
-The Brothers McMullen,17091248.118110236
-George Washington,356969.284738676
-Green Lantern,248452280.9505866
-Four Christmases,193315621.448814
-Primer,571597.8905240868
-Just Go with It,242877797.51938966
-The Day the Earth Stood Still,275207150.59947145
-Conspiracy Theory,216955204.78796265
-Fury,227445489.24123076
-Six Days Seven Nights,255761521.47239265
-Spirit: Stallion of the Cimarron,173184528.85424122
-Lost in Space,212343543.837092
-The Brothers Grimm,137079394.28537634
-Thirteen Days,51027502.71017422
-Looney Tunes: Back in Action,94655491.16569565
-Arthur and the Invisibles,136109328.7682143
-A Sound of Thunder,7796100.702918586
-The Lion King,1352042077.8863158
-Journey 2: The Mysterious Island,393816088.30161065
-Cloudy with a Chance of Meatballs 2,271036575.1080328
-The Secret Life of Pets,927766081.0318699
-Independence Day,1323615180.778432
-Madagascar,693335852.173794
-The Rock,542852698.428566
-Hairspray,110914485.93157743
-Grown Ups,316423748.5057875
-Vertical Limit,318363439.52101046
-The Man from U.N.C.L.E.,115986207.7320108
-First Knight,212836520.85216534
-Flight of the Phoenix,28271972.33647432
-Minions,1240600142.61561
-Snake Eyes,162020883.13262576
-Sphere,20429731.28834356
-Pacific Rim,444775104.03641874
-Braveheart,350278346.4566929
-Jarhead,126111783.26470046
-The Simpsons Movie,646319131.9918089
-Shrek 2,1237823461.943441
-We Were Soldiers,162017791.07486382
-Dracula Untold,231430597.59648722
-Brave,596751697.2822199
-Rock of Ages,65787129.723886505
-Basic Instinct 2,48708782.572202384
-Escape Plan,134124611.17898154
-The Insider,91991693.93891956
-Dinner for Schmucks,100707919.18183403
-Ice Age,541549363.4545414
-The Matrix,707245172.8293277
-The Mask of Zorro,390330325.9119386
-The Kid,102891285.71428572
-This Means War,173799168.700027
-Proof of Life,48122610.093275264
-The Legend of Tarzan,377842311.2339307
-"I, Frankenstein",76404262.95782644
-Random Hearts,113839422.03565426
-Tangled,689893680.1604725
-Austin Powers in Goldmember,419179565.7090717
-Clear and Present Danger,370304247.2121053
-X-Men: Apocalypse,576105324.9487473
-Blades of Glory,144885983.5777424
-The General's Daughter,228424531.7533253
-2 Guns,143972992.25617602
-The Italian Job,243246682.65511957
-Couples Retreat,203616634.97522572
-Days of Thunder,307144347.131339
-Ladder 49,100310487.04507145
-Kangaroo Jack,92196567.58904348
-The Shaggy Dog,77058658.10035715
-Jingle All the Way,210348329.81885275
-A Civil Action,88429391.656454
-The Tale of Despereaux,60069167.69989271
-Joy,108466819.11389478
-My Favorite Martian,56226706.92918368
-Evan Almighty,212141562.95224312
-The Soloist,37584787.72387048
-Almost Famous,69947900.761777
-Event Horizon,42245429.67528972
-Avengers: Age of Ultron,1507302977.5171738
-Edge of Tomorrow,397879191.8327251
-The Last Castle,39677195.96168267
-Waterworld,440713910.5015748
-Beyond Borders,6115073.641271739
-Deadpool,829429497.838638
-American Sniper,582317989.4120286
-Inside Out,919792570.377433
-Ghost Rider: Spirit of Vengeance,168629495.4441426
-Captain Corelli's Mandolin,89154275.18232636
-Pocahontas,577258336.3264173
-Date Night,177503865.17114872
-Executive Decision,197608786.77904397
-Mr. Popper's Penguins,211736215.55314106
-Thunderbirds,38061181.00939121
-Anastasia,221423955.5781682
-Moulin Rouge!,257235535.57124788
-Grindhouse,30702766.48911722
-Beloved,35624222.29137424
-Lucky You,7065561.14439942
-Casino,193674527.2293307
-47 Ronin,164729813.09834003
-"Me, Myself & Irene",220354160.78860626
-Shrek,695300914.9296217
-Captain America: The Winter Soldier,767500896.0848541
-Super 8,293932666.57793444
-Stepmom,141964529.3561595
-Shrek Forever After,877355567.3457003
-Outbreak,316684251.1228346
-Syriana,122350168.97081412
-Absolute Power,79298844.47738318
-Wreck-It Ralph,521728794.4352988
-Gremlins 2: The New Batch,80679877.45840856
-The Polar Express,411615787.81079936
-The Beach,212657057.08679444
-The Host,69102457.3144486
+title,vote_count
+Batman v Superman: Dawn of Justice,7004
+The Host,537
+The Host,537
+The International,368
+Domino,444
+Jade,44
+Gamer,760
+The One,437
+The Bone Collector,826
+The Cotton Club,68
+Dick Tracy,251
+The Thomas Crown Affair,339
+My Best Friend's Wedding,584
+Liar Liar,1424
+Taken 2,2757
+Training Day,1634
+Scary Movie 2,982
+The Muppets,501
+Fat Albert,69
+The River Wild,210
+The Indian in the Cupboard,134
+Cellular,537
+The Ant Bully,366
+Dune,562
+The Producers,151
+The Phantom,136
+Nixon,71
+Deep Rising,154
+Miracle at St. Anna,90
+Curse of the Golden Flower,203
+Bangkok Dangerous,332
+Poseidon,583
+Johnny English Reborn,1007
+Sleepers,715
+Victor Frankenstein,685
+Along Came Polly,773
+Licence to Kill,541
+Super Mario Bros.,232
+Hero,635
+The Warrior's Way,136
+American Hustle,2807
+Double Jeopardy,278
+A Time to Kill,509
+The Conjuring 2,1949
+Back to the Future Part III,2900
+JFK,502
+The Other Woman,1437
+The Final Destination,831
+Behind Enemy Lines,457
+Small Soldiers,511
+Apocalypto,1221
+Made of Honor,394
+Amistad,316
+The Doors,275
+Sex Tape,1695
+Hanging Up,40
+A Million Ways to Die in the West,1468
+The Shadow,138
+Extremely Loud & Incredibly Close,708
+Morning Glory,412
+Get Rich or Die Tryin',186
+Ratatouille,4369
+The Island of Dr. Moreau,147
+Renaissance Man,81
+Showgirls,256
+Big Miracle,152
+Universal Soldier: The Return,135
+Pirates of the Caribbean: Dead Man's Chest,5246
+A Thousand Words,373
+Disturbia,1006
+The Crow,953
+Because I Said So,191
+Frozen,5295
+The Ninth Gate,756
+Texas Rangers,19
+The Express,71
+The 5th Wave,1945
+What to Expect When You're Expecting,594
+Cop Out,511
+Blue Streak,352
+Batman,203
+Batman,203
+Horrible Bosses,2277
+L.A. Confidential,1310
+Sky High,550
+Saving Mr. Banks,1226
+Malcolm X,370
+Old Dogs,210
+Donnie Brasco,1147
+Max Payne,613
+In Time,3417
+Something Borrowed,296
+The Bad News Bears,97
+Mirrors,485
+Predator 2,730
+Blast from the Past,245
+Bee Movie,1171
+Heist,318
+Kung Fu Panda 2,1880
+Valiant,235
+Hot Pursuit,647
+Furry Vengeance,149
+Mission: Impossible III,2028
+Sabotage,555
+Femme Fatale,142
+The Horseman on the Roof,25
+Unfinished Business,320
+Big Momma's House,506
+Thunder and the House of Magic,121
+The Darkest Hour,469
+Wanderlust,394
+Elf,987
+Scrooged,390
+Takers,394
+Source Code,2699
+1941,143
+Bringing Out the Dead,225
+Repo Men,620
+The Good German,86
+Moonraker,541
+The Grand Budapest Hotel,4519
+Arachnophobia,433
+Madagascar 3: Europe's Most Wanted,1808
+Chicago,677
+Big Daddy,875
+Remember the Titans,821
+The First Wives Club,166
+The SpongeBob SquarePants Movie,574
+Hope Springs,284
+Baby Mama,205
+Without a Paddle,214
+13 Going on 30,1204
+Blow,1317
+Star Trek V: The Final Frontier,376
+The Age of Adaline,1990
+Little Shop of Horrors,384
+Kung Fu Panda 3,1603
+Carrie,1463
+Take the Lead,162
+9,1262
+Side Effects,1323
+Dumb and Dumberer: When Harry Met Lloyd,210
+One True Thing,27
+Virtuosity,163
+My Super Ex-Girlfriend,442
+Little Black Book,112
+The Next Three Days,905
+Eight Legged Freaks,295
+Love & Other Drugs,1233
+88 Minutes,313
+The Whole Ten Yards,278
+In Dreams,44
+Godsend,114
+Chasing Liberty,152
+Exodus: Gods and Kings,1921
+Antitrust,153
+Glory,383
+Once Upon a Time in America,1069
+The Avengers,11776
+Pitch Perfect 2,1940
+Walk the Line,718
+Keeping the Faith,159
+Frost/Nixon,328
+Serving Sara,85
+Aladdin,3416
+The Rugrats Movie,147
+Florence Foster Jenkins,392
+How to Train Your Dragon 2,3106
+The Wedding Planner,427
+Last Vegas,799
+Blade Runner,3509
+Lost Souls,38
+Just My Luck,491
+Kundun,91
+Rendition,205
+The Right Stuff,235
+Anonymous,288
+The Duchess,396
+Case 39,563
+Suspect Zero,98
+Martian Child,79
+Flawless,56
+Flatliners,404
+Final Destination 2,1023
+Legion,629
+Silverado,146
+Brothers,633
+Highlander: The Final Dimension,110
+The World Is Not Enough,862
+The Twilight Saga: Breaking Dawn - Part 2,2553
+Jimmy Neutron: Boy Genius,231
+Cloverfield,2251
+No Country for Old Men,3003
+Chocolat,951
+Tombstone,626
+The Omen,476
+Agent Cody Banks,284
+Nanny McPhee,711
+Scarface,2948
+Contraband,770
+The Sisterhood of the Traveling Pants,386
+The Giver,1798
+What a Girl Wants,368
+The Hours,451
+Mr. Bean's Holiday,663
+Blood Ties,171
+August Rush,797
+Spice World,123
+The Gambler,543
+Don Juan DeMarco,183
+War,414
+Punch-Drunk Love,530
+Ant-Man,5880
+Blindness,387
+Little White Lies,380
+Love Ranch,21
+Home,1519
+Dangerous Liaisons,257
+Dangerous Liaisons,257
+Scream 2,840
+Think Like a Man Too,225
+Old School,541
+Zack and Miri Make a Porno,721
+Bad Boys,1699
+Final Destination,1378
+The Adventurer: The Curse of the Midas Box,73
+Haywire,505
+Coco Before Chanel,246
+Vanity Fair,73
+1408,1343
+There's Something About Mary,1590
+The Hundred-Foot Journey,508
+Son of God,83
+Our Kind of Traitor,160
+Diary of a Wimpy Kid: Dog Days,223
+Jay and Silent Bob Strike Back,480
+RoboCop 3,305
+Darling Lili,8
+Mad Money,140
+Before I Go to Sleep,659
+After Earth,2532
+Underdogs,122
+To Rome with Love,546
+Dinosaur,542
+For Colored Girls,22
+Away We Go,189
+Pulse,150
+Megamind,1918
+The Silence of the Lambs,4443
+Jackass 3D,428
+The Conjuring,3092
+School of Rock,1414
+The Descendants,934
+Selma,817
+The Tigger Movie,143
+Orphan,1261
+Epic Movie,326
+How Stella Got Her Groove Back,24
+The Da Vinci Code,2704
+The American,481
+Selena,114
+Vampires Suck,315
+Paint Your Wagon,63
+Wild Things,444
+One Missed Call,171
+Daybreakers,634
+Alpha and Omega,124
+Vampires,255
+Reign Over Me,334
+From Dusk Till Dawn,1603
+The Country Bears,20
+Loser,120
+Capitalism: A Love Story,167
+Bullets Over Broadway,130
+Three to Tango,62
+Everyone Says I Love You,147
+Doogal,18
+Batman & Robin,1418
+Little Boy,185
+Chasing Mavericks,216
+Birth,179
+The Brothers Bloom,203
+Can't Stop the Music,9
+Marci X,12
+The Children of Huang Shi,52
+The Yards,97
+CJ7,107
+The Baader Meinhof Complex,157
+Scream,1476
+Thomas and the Magic Railroad,8
+Life of Pi,5797
+The Bounty,108
+Sex Drive,342
+Take Me Home Tonight,208
+Won't Back Down,40
+United 93,367
+Honey,303
+Spy Hard,147
+Observe and Report,225
+Raging Bull,938
+127 Hours,2606
+Life as a House,120
+The Ice Storm,176
+The Chronicles of Riddick,1570
+RoboCop,2342
+The White Ribbon,255
+Day of the Dead,270
+The Hobbit: The Desolation of Smaug,4524
+Speed Racer,354
+Hotel Rwanda,793
+City of Ghosts,18
+Beerfest,172
+Good Boy!,30
+Beastly,849
+Lottery Ticket,54
+Oblivion,4800
+Brooklyn's Finest,293
+55 Days at Peking,36
+The Illusionist,1615
+Southland Tales,153
+Wall Street,546
+Road Trip,542
+The Texas Chainsaw Massacre: The Beginning,402
+The Young Messiah,30
+Vicky Cristina Barcelona,1020
+Boys and Girls,103
+The Golden Compass,1303
+Highlander,624
+Steel,48
+The Immigrant,250
+The White Countess,21
+Trance,956
+Good,29
+Juwanna Mann,20
+Windtalkers,341
+Slither,317
+American Beauty,3313
+The Color Purple,338
+The Imitation Game,5723
+Coal Miner's Daughter,67
+National Lampoon's Vacation,410
+Big Fat Liar,197
+The Deer Hunter,921
+Cop Land,382
+Gravity,5751
+The Last House on the Left,440
+Halloween: Resurrection,228
+Confessions of a Teenage Drama Queen,221
+28 Weeks Later,1197
+Match Point,1105
+Urban Legends: Final Cut,100
+Tuck Everlasting,128
+Killing Them Softly,742
+The Man with the Iron Fists,358
+Dark Blue,85
+A Mighty Heart,95
+Tomorrow Never Dies,925
+In Bruges,1388
+Promised Land,243
+Whatever Works,350
+Mulholland Drive,1477
+You Will Meet a Tall Dark Stranger,251
+The Clan of the Cave Bear,27
+Felicia's Journey,23
+Things to Do in Denver When You're Dead,85
+The Assassin,157
+Groundhog Day,2301
+Crocodile Dundee II,303
+My Bloody Valentine,299
+The Spy Who Loved Me,507
+Urban Legend,290
+White Fang,135
+Superstar,83
+Poetic Justice,47
+All About the Benjamins,48
+Our Family Wedding,39
+Dead Man on Campus,49
+Tea with Mussolini,32
+300: Rise of an Empire,2397
+Amen.,75
+Hot Tub Time Machine 2,354
+The Godfather: Part II,3338
+Harriet the Spy,46
+Child's Play 2,308
+Bubble Boy,163
+21 & Over,737
+"Paris, je t'aime",207
+The Claim,17
+The Vatican Tapes,243
+In the Land of Blood and Honey,45
+The Crocodile Hunter: Collision Course,34
+King Kong,2337
+Glengarry Glen Ross,323
+Sorority Row,177
+Lars and the Real Girl,509
+Solitary Man,84
+Casino Jack,94
+American Pie,2296
+Ace Ventura: Pet Detective,1648
+Step Up,1060
+Chronicle,1935
+Quarantine,339
+Stir of Echoes,330
+Philomena,579
+The Upside of Anger,72
+Nebraska,636
+Max Keeble's Big Move,33
+Living Out Loud,11
+Stuart Little,959
+Sorority Boys,47
+House of Flying Daggers,439
+Project Almanac,933
+Fortress,168
+Girl 6,16
+Charlie Bartlett,225
+The Dangerous Lives of Altar Boys,53
+Married Life,38
+Brother,107
+Breakfast of Champions,28
+The Island,1770
+10 Days in a Madhouse,5
+Snatch,2912
+Major League,217
+Dead Man Walking,337
+Minority Report,2608
+Woman in Gold,440
+Return to the Blue Lagoon,153
+Good Will Hunting,2811
+Madea's Family Reunion,77
+The Dark Knight Rises,9106
+Bill & Ted's Excellent Adventure,454
+Commando,742
+The Boy,1102
+Friday After Next,100
+The Banger Sisters,62
+A Low Down Dirty Shame,31
+Public Enemies,1344
+Pete's Dragon,679
+The Fourth Kind,441
+Rushmore,676
+Mo' Better Blues,47
+Tremors,864
+Wrong Turn,635
+"The Goods: Live Hard, Sell Hard",58
+My Week with Marilyn,406
+Very Bad Things,179
+Movie 43,797
+Seeking a Friend for the End of the World,700
+Heartbeeps,6
+On the Line,10
+Rescue Dawn,336
+The Forest,448
+A Better Life,54
+The Joneses,210
+The Brothers Solomon,46
+"War, Inc.",86
+Shaolin Soccer,491
+Rosewater,98
+Police Academy: Mission to Moscow,178
+Blood Done Sign My Name,5
+The Oxford Murders,188
+Eulogy,34
+Of Horses and Men,26
+Richard III,49
+Loose Cannons,118
+The Tourist,1699
+Sicko,235
+The Contender,60
+The Tourist,1699
+Igby Goes Down,95
+The Ultimate Gift,78
+The Wailing,250
+The DUFF,1322
+The Wind That Shakes the Barley,154
+Splash,321
+A Thin Line Between Love and Hate,15
+Legend of the Guardians: The Owls of Ga'Hoole,703
+On Her Majesty's Secret Service,456
+Akeelah and the Bee,81
+New in Town,99
+Bon Cop Bad Cop,42
+Enough Said,348
+Prom,134
+Held Up,11
+Another Year,97
+Clay Pigeons,39
+Wild Target,215
+10th & Wolf,24
+The Death and Life of Bobby Z,103
+Land of the Lost,381
+Soul Food,19
+Masked and Anonymous,13
+Harry Brown,348
+Live and Let Die,533
+"Definitely, Maybe",620
+Capote,384
+Logan's Run,269
+The Descent,1005
+Michael Jordan to the Max,10
+Dope,691
+A Serious Man,483
+A Single Man,463
+Split Second,63
+Auto Focus,56
+Factory Girl,81
+We Need to Talk About Kevin,677
+Gerry,68
+Freeheld,164
+Ca$h,73
+Skyfall,7604
+House at the End of the Street,555
+The Adventures of Huck Finn,42
+Go,196
+Bats,35
+Aberdeen,6
+The Messenger,119
+The Return of the Living Dead,267
+Mallrats,392
+Grease,1581
+Ordinary People,145
+Caddyshack,365
+Black Hawk Down,1811
+Escape from New York,703
+Daddy Day Camp,91
+Bernie,320
+Novocaine,44
+The Wild Bunch,259
+Sex and the City 2,426
+The Flower of Evil,10
+The Greatest,34
+Snow Flower and the Secret Fan,22
+Come Early Morning,10
+"Surfer, Dude",25
+Ice Age: Continental Drift,2672
+Crossover,10
+Shine,131
+Galaxina,16
+Cinderella,2374
+The Ten,57
+The Lovely Bones,1065
+Ouija,983
+The Lord of the Rings: The Return of the King,8064
+Friday the 13th Part VIII: Jason Takes Manhattan,191
+Seventh Son,957
+The Haunting of Molly Hartley,48
+April Fool's Day,73
+Apollo 18,356
+Lara Croft: Tomb Raider,2192
+A Farewell to Arms,28
+Slums of Beverly Hills,44
+Sea Rex 3D: Journey to a Prehistoric World,11
+Zero Effect,55
+Rise of the Planet of the Apes,4347
+Rabbit Hole,165
+Out of the Blue,17
+The Awakening,458
+Lady in White,25
+The Names of Love,93
+Cutthroat Island,136
+Four Weddings and a Funeral,632
+Tango,6
+Character,25
+Mean Machine,157
+After.Life,251
+Men in Black,4412
+One Flew Over the Cuckoo's Nest,2919
+The Sweeney,109
+Sexy Beast,217
+Whale Rider,111
+Love and Death on Long Island,11
+Porky's,183
+What the #$*! Do We (K)now!?,34
+3 Strikes,15
+What Lies Beneath,488
+Talk Radio,46
+Love Stinks,11
+Thumbsucker,67
+Shooting Fish,23
+Trust,307
+Adore,291
+A Man for All Seasons,89
+Network,381
+Mulan,2008
+The History Boys,66
+Midnight Cowboy,299
+Tropic Thunder,1667
+In Cold Blood,82
+She's the One,70
+Pootie Tang,43
+The Masked Saint,7
+March of the Penguins,358
+Feast,160
+Ben-Hur,621
+Air Bud,106
+Family Plot,86
+The Apartment,483
+Jason Goes to Hell: The Final Friday,193
+Next Day Air,36
+Trippin',4
+Phat Girlz,10
+Before Midnight,568
+Water,34
+Warlock: The Armageddon,38
+Basquiat,94
+Tim and Eric's Billion Dollar Movie,34
+Chain Letter,37
+High Tension,271
+Friday the 13th Part VII: The New Blood,192
+Donovan's Reef,30
+A Guy Named Joe,8
+Singin' in the Rain,727
+That Thing You Do!,225
+Garden State,618
+Brick Lane,15
+My Life Without Me,77
+The Other End of the Line,50
+Sleep Dealer,40
+John Carter,2124
+This Is England,363
+Go for It!,5
+Elling,51
+Courageous,77
+Boom Town,8
+American Splendor,120
+Volcano,376
+Gentleman's Agreement,47
+Alexander's Ragtime Band,6
+Ghost Dog: The Way of the Samurai,298
+Waltz with Bashir,291
+The Diary of a Teenage Girl,279
+House of D,23
+Teeth,210
+The Last Five Years,143
+Plush,40
+Stitches,92
+Battle for the Planet of the Apes,215
+In the Bedroom,89
+Yes,7
+Air Force One,840
+The Conversation,372
+Bloodsport,363
+Kids,279
+The Squid and the Whale,226
+Spellbound,160
+Exotica,64
+Insidious,1737
+Nine Queens,153
+The Three Musketeers,924
+The To Do List,342
+The Believer,151
+Snow Angels,48
+The Salon,1
+Enchanted,1449
+102 Dalmatians,313
+The Hebrew Hammer,18
+Friday the 13th Part 2,315
+Niagara,79
+Enemy of the State,1240
+From a Whisper to a Scream,15
+The Howling,161
+Hellraiser,449
+God's Not Dead 2,72
+An Inconvenient Truth,251
+Martha Marcy May Marlene,277
+Blue Car,13
+Once in a Lifetime: The Extraordinary Story of the New York Cosmos,3
+Safe Men,16
+Hard Candy,701
+Circumstance,23
+All That Jazz,85
+Ruby in Paradise,10
+Scott Pilgrim vs. the World,2126
+Kevin Hart: Laugh at My Pain,43
+Hoop Dreams,87
+Broken Vessels,2
+Dredd,1940
+Mad Hot Ballroom,8
+The Station Agent,210
+Wordplay,10
+Hurricane Streets,4
+Lonesome Jim,26
+Kiss the Bride,11
+Monsters,587
+Good Kill,208
+Jumper,1799
+Conversations with Other Women,38
+Metropolitan,38
+Paranormal Activity,1316
+I Want Your Money,5
+Fabled,0
+The Broadway Melody,19
+The Evil Dead,894
+Maniac,316
+Tumbleweeds,11
+When the Cat's Away,16
+Pieces of April,64
+The Expendables,2926
+Lovely & Amazing,23
+American Desi,4
+November,11
+The Hangover Part II,3739
+Bronson,733
+"The Beast from 20,000 Fathoms",41
+Short Cut to Nirvana: Kumbh Mela,0
+Middle of Nowhere,7
+Baghead,23
+Good Dick,34
+Tadpole,19
+The Horse Boy,2
+The Birth of a Nation,178
+Pi,586
+Happy Christmas,58
+Funny Ha Ha,8
+Four Christmases,331
+Clean,17
+My Date with Drew,16
+The Haunting,369
+The Pink Panther,550
+Conspiracy Theory,431
+Yogi Bear,220
+Terminator Salvation,2463
+Spirit: Stallion of the Cimarron,831
+Surrogates,1195
+Nine,165
+Timeline,318
+Arthur and the Invisibles,639
+Oceans,111
+2 Fast 2 Furious,2028
+Star Trek Into Darkness,4418
+The Lost World: Jurassic Park,2487
+Now You See Me,5487
+The Man from U.N.C.L.E.,2265
+Immortals,880
+The Majestic,188
+The SpongeBob Movie: Sponge Out of Water,719
+Spider-Man 3,3576
+AVP: Alien vs. Predator,1217
+The Good Dinosaur,1736
+Star Trek: Insurrection,391
+Big Fish,1994
+Wolf,216
+Brave,4641
+Seven Years in Tibet,630
+I Spy,269
+Underworld: Awakening,1862
+Basic Instinct 2,180
+Rush Hour 3,783
+Despicable Me,6478
+The Matrix,8907
+You've Got Mail,838
+Unbroken,1400
+Broken Arrow,453
+The Dictator,1743
+This Means War,1389
+The Long Kiss Goodnight,314
+Hudson Hawk,269
+Oliver Twist,274
+Austin Powers in Goldmember,979
+Wyatt Earp,202
+Dragon Blade,145
+U-571,340
+The American President,195
+X-Men: Apocalypse,4721
+3000 Miles to Graceland,178
+Hop,331
+Chicken Little,944
+Daddy Day Care,506
+Cats & Dogs,352
+Two Weeks Notice,487
+Days of Thunder,353
+Iron Man,8776
+The Scorpion King,779
+Deep Blue Sea,604
+Coraline,1386
+The Happening,950
+The Shaggy Dog,137
+Starsky & Hutch,644
+ParaNorman,789
+Wild Wild West,1020
+London Has Fallen,1621
+The Lego Movie,3070
+Year One,524
+Invictus,1125
+My Favorite Martian,80
+Intolerable Cruelty,391
+The Relic,130
+Righteous Kill,375
+Almost Famous,797
+Supernova,109
+Winter's Tale,487
+Goosebumps,995
+Just Like Heaven,579
+The Internship,1658
+Walking Tall,381
+Date Night,1122
+Maid in Manhattan,485
+Disclosure,210
+Executive Decision,256
+Evita,120
+Instinct,146
+Semi-Pro,251
+Gods and Generals,48
+Burlesque,573
+A Very Long Engagement,346
+Bullet to the Head,481
+Superman II,629
+Anastasia,1432
+Domestic Disturbance,113
+Man on the Moon,435
+Casino,1307
+Jerry Maguire,913
+Ted,4697
+Anchorman 2: The Legend Continues,923
+Outbreak,513
+Race to Witch Mountain,509
+Shanghai Knights,692
+Unfaithful,276
+I Am Number Four,1567
+Syriana,451
+Syriana,451
+The Book of Life,755
+Wreck-It Ralph,4570
+The Replacements,203
+The Judge,1417
+Resident Evil: Apocalypse,1267
+Bridget Jones: The Edge of Reason,750
+On Deadly Ground,104
+The Beach,1233
+Raising Helen,189
+The Story of Us,75
+The Host,1817
